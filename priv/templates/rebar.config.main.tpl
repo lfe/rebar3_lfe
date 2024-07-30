@@ -2,11 +2,11 @@
 
 {deps, [
     {lfe, "2.1.3"},
-    {ltest, "0.13.6"}
+    {ltest, "0.13.8"}
 ]}.
 
 {plugins, [
-    {rebar3_lfe, "0.4.9"}
+    {rebar3_lfe, "0.4.10"}
 ]}.
 
 {lfe, [
