@@ -1,8 +1,7 @@
 {erl_opts, [debug_info]}.
 
 {deps, [
-    {lfe, "~> 2.1"},
-    {ltest, "~> 0.13"}
+    {lfe, "~> 2.1"}
 ]}.
 
 {plugins, [
@@ -21,7 +20,8 @@
 {profiles, [
     {test, [
         {deps, [
-            {proper, "1.4.0"}
+            {proper, "1.4.0"},
+            {ltest, "~> 0.13"}
         ]},
         {plugins, [
             {rebar3_proper, "0.12.1"}
