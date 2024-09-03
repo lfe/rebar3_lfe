@@ -6,7 +6,7 @@
 ]}.
 
 {plugins, [
-    {rebar3_lfe, "0.4.9"}
+    {rebar3_lfe, "0.4.11"}
 ]}.
 
 {lfe, [
