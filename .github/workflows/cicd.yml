@@ -1,11 +1,14 @@
 name: ci/cd
 
 on:
+  workflow_dispatch:
   push:
     branches: [ main, 'release/**', 'task/**', 'feature/**', 'epic/**']
     tags: ['**']
   pull_request:
     branches: [ main, 'release/**', 'task/**', 'feature/**', 'epic/**']
+  schedule:
+  - cron: "23 4 * * *"
 
 jobs:
 
