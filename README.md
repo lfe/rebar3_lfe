@@ -1,6 +1,10 @@
 # rebar3_lfe
 
-[![Build Status][gh-actions-badge]][gh-actions] [![LFE Versions][lfe badge]][lfe] [![Erlang Versions][erlang badge]][versions] [![Tag][github tag badge]][github tag]
+[![Build Status][gh-actions-badge]][gh-actions]
+[![LFE Versions][lfe-badge]][lfe]
+[![Erlang Versions][erlang-badge]][versions]
+[![Tag][github-tag-badge]][github-tag]
+[![Downloads][hex-downloads]][hex-package]
 
 *A comprehensive LFE rebar3 plugin for all your LFE tooling needs*
 
@@ -110,6 +114,6 @@ Detailed usage is provided in the [project documentation](https://lfe-rebar3.git
 [github tag]: https://github.com/lfe-rebar3/rebar3_lfe/tags
 [github tag badge]: https://img.shields.io/github/tag/lfe-rebar3/rebar3_lfe.svg
 [github downloads]: https://img.shields.io/github/downloads/atom/atom/total.svg
-[hex badge]: https://img.shields.io/hexpm/v/rebar3_lfe.svg?maxAge=2592000
-[hex package]: https://hex.pm/packages/rebar3_lfe
-[hex downloads]: https://img.shields.io/hexpm/dt/rebar3_lfe.svg
+[hex-badge]: https://img.shields.io/hexpm/v/rebar3_lfe.svg?maxAge=2592000
+[hex-package]: https://hex.pm/packages/rebar3_lfe
+[hex-downloads]: https://img.shields.io/hexpm/dt/rebar3_lfe.svg
