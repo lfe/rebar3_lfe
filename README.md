@@ -108,12 +108,12 @@ Detailed usage is provided in the [project documentation](https://lfe-rebar3.git
 [gh-actions-badge]: https://github.com/lfe-rebar3/rebar3_lfe/workflows/ci%2Fcd/badge.svg
 [gh-actions]: https://github.com/lfe-rebar3/rebar3_lfe/actions
 [lfe]: https://github.com/lfe/lfe
-[lfe badge]: https://img.shields.io/badge/lfe-2.1.2-blue.svg
-[erlang badge]: https://img.shields.io/badge/erlang-19%E2%88%9225-blue.svg
+[lfe-badge]: https://img.shields.io/badge/lfe-2.1.2-blue.svg
+[erlang-badge]: https://img.shields.io/badge/erlang-19%E2%88%9225-blue.svg
 [versions]: https://github.com/lfe-rebar3/rebar3_lfe/blob/master/.github/workflows/cicd.yml
-[github tag]: https://github.com/lfe-rebar3/rebar3_lfe/tags
-[github tag badge]: https://img.shields.io/github/tag/lfe-rebar3/rebar3_lfe.svg
-[github downloads]: https://img.shields.io/github/downloads/atom/atom/total.svg
+[github-tag]: https://github.com/lfe-rebar3/rebar3_lfe/tags
+[github-tag-badge]: https://img.shields.io/github/tag/lfe-rebar3/rebar3_lfe.svg
+[github-downloads]: https://img.shields.io/github/downloads/atom/atom/total.svg
 [hex-badge]: https://img.shields.io/hexpm/v/rebar3_lfe.svg?maxAge=2592000
 [hex-package]: https://hex.pm/packages/rebar3_lfe
 [hex-downloads]: https://img.shields.io/hexpm/dt/rebar3_lfe.svg
